@@ -1,0 +1,1 @@
+En este repositorio se encuentra el documento resumen del modelo de métricas y el documento excel con el instrumento de evaluación para el modelo de métricas para apoyar la evaluación de la felicidad de las comunidades de desarrollo de software ágil.
